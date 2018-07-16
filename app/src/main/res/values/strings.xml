@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">POP MOVIES</string>
+
+    <string name="rating">Rating : \</string>
+    <string name="relase">Relased : \</string>
+    <string name="overview">plot synopsis : \ </string>
+    <string name="review">Reviews : \</string>
+
+
+    <string name="popular">most popular</string>
+    <string name="highestRated">highest rated</string>
+    <string name="favouriteNotFound">There is no Favorites</string>
+    <string name="favourits">Favourites</string>
+
+
+</resources>

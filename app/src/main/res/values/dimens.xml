@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movieBarHieght">70dp</dimen>
+    <dimen name="stardimen">50dp</dimen>
+    <dimen name="defaultPadding">8dp</dimen>
+    <dimen name="reviewPadding">16dp</dimen>
+    <dimen name="titleMargin">10dp</dimen>
+    <dimen name="titleTextSize">22sp</dimen>
+    <dimen name="normalTextSize">16sp</dimen>
+    <dimen name="largeTextSize">24sp</dimen>
+</resources>
